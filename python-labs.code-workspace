@@ -5,8 +5,12 @@
       "name": "root"
     },
     {
-      "path": "./lab 1",
-      "name": "lab 1"
+      "path": "./lab_1",
+      "name": "lab_1"
+    },
+    {
+      "path": "./lab_2",
+      "name": "lab_2"
     }
   ],
   "settings": {}
