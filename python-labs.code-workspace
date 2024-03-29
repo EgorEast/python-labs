@@ -11,6 +11,10 @@
     {
       "path": "./lab_2",
       "name": "lab_2"
+    },
+    {
+      "path": "./lab_3",
+      "name": "lab_3"
     }
   ],
   "settings": {}
